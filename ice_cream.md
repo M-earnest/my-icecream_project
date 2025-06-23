@@ -1,3 +1,3 @@
-1. Pistachio
-3. Vanilla
-2. Strawberry
+1. Lemon
+2. Vanilla
+3. Chocolate
